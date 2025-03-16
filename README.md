@@ -33,5 +33,5 @@ Welcome to my **AI & Computer Vision Portfolio**! This is a modern, responsive p
 
 ### **1️⃣ Clone the Repository**  
 ```sh
-git clone https://github.com/yourusername/your-portfolio.git
-cd your-portfolio
+git clone https://github.com/K-Gopal126/Portfolio.git
+cd Portfolio
