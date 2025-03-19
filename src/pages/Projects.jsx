@@ -59,6 +59,15 @@ const Projects = () => {
           </p>
           <p className="text-sm text-gray-500"><strong>Technologies used:</strong> Python, Scikit-Learn, XGBoost</p>
         </div>
+
+        {/* Privacy Screen */}
+        <div className="p-6 border border-gray-600 rounded-lg shadow-lg hover:shadow-2xl transform hover:scale-105 transition duration-300 ease-in-out">
+          <h2 className="text-2xl font-semibold text-white mb-4">Privacy Screen</h2>
+          <p className="text-gray-400 mb-4">
+            A software tool designed to enhance user privacy by limiting screen visibility from side angles, ensuring that sensitive information remains hidden from prying eyes.
+          </p>
+          <p className="text-sm text-gray-500"><strong>Technologies used:</strong> JavaScript, HTML, CSS, Electron</p>
+        </div>
       </div>
     </div>
   );
